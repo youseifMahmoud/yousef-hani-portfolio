@@ -1,9 +1,9 @@
-# 💻 Yousef Hani Mohamed - Full Stack Python/Django Developer Portfolio  
+# 💻 Yousef Hani Mohamed - Front End Developer Portfolio  
 
 Welcome to my online portfolio!  
 
 This repository contains the source code for my personal website.  
-The site is designed to showcase my technical skills, projects, and professional experience as a **Full Stack Python/Django Developer**.  
+The site is designed to showcase my technical skills, projects, and professional experience as a **Front End Developer**.  
 
 ---
 
@@ -31,16 +31,6 @@ The site is designed to showcase my technical skills, projects, and professional
 
 ## CV Download  
 [📄 View My CV](https://raw.githubusercontent.com/youseifMahmoud/youseifMahmoud/main/Yousef%20Hani%20Muhamed.pdf)
-
----
-
-## 📂 Project Structure  
-
-/
-├── index.html
-├── style.css
-├── script.js
-├── /Images # Project-related images (e.g., personal photo)
 
 ---
 
